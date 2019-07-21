@@ -1,5 +1,3 @@
-# Phil Chambers 2012
-
 # Quality assessment of short Illumina NGS reads.
 # This assessment is meant to COMPLEMENT, rather than replace, quality assessment available from the Illumina Genome Analyzer.
 # This code works on compressed fastq files, i.e. files named "[name].fastq.gz".  It accepts one file at a time.  Please get in touch if you require a version that accepts multiple files.
