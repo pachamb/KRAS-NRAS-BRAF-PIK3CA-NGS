@@ -1,3 +1,8 @@
+# Author: Phil Chambers
+# Date of last edit: 24/06/2019
+
+# Purpose: This script loads the required R libraries and asks the data analyst to enter the names and locations of the files to be analysed and the desired name and location of the reports.  When these have been entered the sample name is extracted to be used for naming the reports.   
+
 # This is part of suite of scripts that analyses short read, next generation sequencing data for the human BRAF, KRAS, NRAS and PIK3CA genes generated from an Illumina Genome Analyser using the Qiagen "GeneRead DNAseq Targeted Panels V2 Human Tumor Actionable Mutations Panel" (Product no. 181900, Cat. no. NGHS-201X).  Please also see:
 # ShortRead_quality_assessment.R
 # BRAF_NGS_analysis_with_GenomicAlignments_and_Rsamtools_in_use_July_2019.R
@@ -5,7 +10,6 @@
 # NRAS_NGS_analysis_with_GenomicAlignments_and_Rsamtools_in_use_July_2019.R
 # PIK3CA_NGS_analysis_with_GenomicAlignments_and_Rsamtools_in_use_July_2019.R
 
-# This script loads the required R libraries and asks the data analyst to enter the names and locations of the files to be analysed and the desired name and location of the reports.  When these have been entered the sample name is extracted to be used for naming the reports.   
 
 # Required libraries
 library(Rsamtools)
