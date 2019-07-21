@@ -1,4 +1,7 @@
+# Author: Phil Chambers
+# Date of last edit: 24/06/2019
 
+# Purpose: 
 # This analyses short read, next generation sequencing data for the human KRAS gene generated from an Illumina Genome Analyser using the Qiagen "GeneRead DNAseq Targeted Panels V2 Human Tumor Actionable Mutations Panel" (Product no. 181900, Cat. no. NGHS-201X).  It should also work with data generated from an Illumina Genome Analyser using and any PCR primers that amplify the regions of interest. Gene alignment and numbering is for human genome build hg19.
 # It generates three outputs:
 # 1. csv files with the percentage reads for each nucleotide at each position.
